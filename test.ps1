@@ -1,1 +1,2 @@
 get-process 
+Get-Command
